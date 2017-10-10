@@ -1,0 +1,98 @@
+
+body
+{
+    background:   url('../img/fondo2.jpg');
+    
+}
+
+#head
+{
+    margin-top: 15px;
+   /* margin-bottom: 15px;*/
+}
+
+
+#menu
+{
+    margin-top: 15px;
+}
+#menu, #submenu
+{
+    
+    background-color: #00bbff;
+
+   
+}
+
+
+@media (min-width: 1200px) 
+{
+    #menu, a
+    {
+    margin-left: 20px;
+    margin-right: 20px;
+   
+    }
+    #search-bar, input
+
+    {
+        
+       width: 290px;
+
+
+    }
+
+    
+    #login  
+    {
+        margin-left: 80px;
+    }
+
+     #login2  
+    {
+        margin-left: 40px;
+    }
+
+}
+#menu, a
+{
+    color: #2f4f4f;
+
+   
+   
+   
+}
+
+#search-bar
+{
+   /*margin-left: 30px;*/
+    /*margin-right: 20px;*/
+
+}
+.carousel-item.active,
+    .carousel-item-next,
+    .carousel-item-prev {
+        display: block;
+    }
+
+    #footer
+
+    {
+    background-color: #00bbff;
+    color: #2f4f4f;
+    }
+
+#catalogo
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#card-img
+{
+    margin-top: 15px;
+}
+#FornRegis
+{
+   
+}
